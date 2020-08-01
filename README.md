@@ -9,5 +9,5 @@ DisparityEstimation.ipybn estimates depth when provided with two different angel
 
 Several versions of pixel matching algorthms are implemented, each berforming better with certain images. 
 
-an example:
+an example result with cloth picture
 <img src="disparity_result.png" width="500">
